@@ -2,7 +2,9 @@
 
 Title：SCRUM 流程规范文档
 
-Version：0.1
+Version：v0.1
+
+状态：草稿
 
 Author：平安智慧城医药架构组
 
