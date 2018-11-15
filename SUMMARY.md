@@ -8,4 +8,5 @@
 * [任务分解](ren-wu-fen-jie.md)
 * [站立会议](zhan-li-hui-yi.md)
 * [测试发布](ce-shi-fa-bu.md)
+* [附录：禅道](fu-lu-ff1a-shan-dao.md)
 
