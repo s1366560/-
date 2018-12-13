@@ -2,7 +2,7 @@
 
 * [README](README.md)
 * [项目管理流程规范](project-management/xiang-mu-guan-li-liu-cheng-gui-fan.md)
-* [Scrum 研发流程](scrum-process/scrum-yan-fa-liu-cheng.md)
+* [Scrum 研发流程规范](scrum-process/scrum-yan-fa-liu-cheng.md)
   * [流程概述](scrum-process/process-summary.md)
   * [需求评审](scrum-process/xu-qiu-ping-shen.md)
   * [角色定义](scrum-process/process-summary/jiao-se-ding-yi.md)
