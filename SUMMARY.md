@@ -3,8 +3,8 @@
 * [README](README.md)
 * [项目管理流程规范](project-management/xiang-mu-guan-li-liu-cheng-gui-fan.md)
 * [产品设计工作流程](product-process/README.md)
-  * 产品管理流程规范
-  * 产品设计流程规范
+  * [产品管理流程规范](product-process/chan-pin-guan-li-liu-cheng-gui-fan.md)
+  * [产品设计流程规范](product-process/chan-pin-she-ji-liu-cheng-gui-fan.md)
 * [Scrum 研发流程规范](scrum-process/scrum-yan-fa-liu-cheng.md)
   * [目的](scrum-process/mu-de.md)
   * [流程概述](scrum-process/process-summary.md)
